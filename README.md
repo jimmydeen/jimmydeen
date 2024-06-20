@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @jimmydeen
-- 👀 I’m interested in computer science/programming
+- 👀 I’m interested in formal methods and low-level systems programming
 - 🌱 I’m currently learning C++ and Static Analysis 
-- 💞️ I’m looking to collaborate on exciting projects right now, particularly in the low-end space
-- 📫 How to reach me: email!
+- 📫 How to reach me: joongdojang@gmail.com
 
 <!---
 jimmydeen/jimmydeen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
