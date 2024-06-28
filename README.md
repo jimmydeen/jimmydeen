@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jimmydeen
 - 👀 I’m interested in formal methods and low-level systems programming
-- 🌱 I’m currently learning C++ and Static Analysis 
+- 🌱 I’m currently learning HOL, C++ and Static Analysis 
 - 📫 How to reach me: joongdojang@gmail.com
 
 <!---
