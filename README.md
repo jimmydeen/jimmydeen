@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jimmydeen
-- 👀 I’m interested in formal methods and low-level systems programming
+- 👀 I’m interested in formal methods and systems programming
 - 📫 How to reach me: joongdojang@gmail.com
 
 <!---
